@@ -1,6 +1,5 @@
 <h1> Automatización de la Fabricación Industrial de Bollería. </h1>
 
-<h3> Diseño de PCB para el encendido intermitente de un led mediante un LM555, incluyendo regulador de Tensión. </h3>
 
 <dl>
 
